@@ -6,4 +6,10 @@
 - [Soduko](/Soduko.pl)
 
 
-To run these programs I use the [Prolog online compiler](https://swish.swi-prolog.org/example/kb.pl) 
+To run these programs  use the [Prolog online compiler](https://swish.swi-prolog.org/example/kb.pl) 
+**OR**
+using command line after installing swi-prolog run :-
+```bash
+swipl -s filename.pl
+```
+
