@@ -7,7 +7,7 @@
 
 
 To run these programs  use the [Prolog online compiler](https://swish.swi-prolog.org/example/kb.pl) 
-**OR**
+</br> **OR**
 using command line after installing swi-prolog run :-
 ```bash
 swipl -s filename.pl
