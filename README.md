@@ -9,10 +9,10 @@
 - [Max](/max.pro)
 - [Calculator](/calculator.pro)
 - [Power](/power.pro)
-
+- [Fibonacci](/fibonacci.pro)
 
 To run these programs  use the [Prolog online compiler](https://swish.swi-prolog.org/example/kb.pl) 
-</br> **OR**
+</br> **OR**</br>
 using command line after installing swi-prolog run :-
 ```bash
 swipl -s filename.pl
