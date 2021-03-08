@@ -4,8 +4,9 @@
 
 - [N-Queens Problem](/N-Queens.pl)
 - [Soduko](/Soduko.pl)
-- [Fruits and Vegetables](/1.fruits-and-vegetables.pro)
-- [Family Tree](/2.family-tree.pro)
+- [Fruits and Vegetables](/fruits-and-vegetables.pro)
+- [Family Tree](/family-tree.pro)
+- [max](/max.pro)
 
 To run these programs  use the [Prolog online compiler](https://swish.swi-prolog.org/example/kb.pl) 
 </br> **OR**
