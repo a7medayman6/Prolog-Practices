@@ -28,4 +28,27 @@ div(X, Y, R):-
 modulus(X, Y, R):-
     R is mod(X, Y).
 
+check('Y').
+check('y').
+
+run :-
+	write("What is the operation you want to perform ?"), nl,
+	write("1- Add"), nl,
+	write("2- Subtract"), nl,
+	write("3- Multiply"), nl,
+	write("4- Divide"), nl,
+	write("5- Modulus"), nl,
+	write("Please Enter your choice number"), nl,
+	read(C),
+    write("Please enter the first number"), nl,
+    read(X),
+	write("Please enter the second number"), nl,
+    read(Y),
+    calc(C, X, Y, R),
+    write("The Result is : "), write(R), nl,
+    write("Do you want to perform another calculation ? y/n"), nl,
+    read(CH),
+    check(CH),
+    run.
+run.
 
