@@ -6,8 +6,10 @@
 - [Soduko](/Soduko.pl)
 - [Fruits and Vegetables](/fruits-and-vegetables.pro)
 - [Family Tree](/family-tree.pro)
-- [max](/max.pro)
+- [Max](/max.pro)
 - [Calculator](/calculator.pro)
+- [Power](/power.pro)
+
 
 To run these programs  use the [Prolog online compiler](https://swish.swi-prolog.org/example/kb.pl) 
 </br> **OR**
