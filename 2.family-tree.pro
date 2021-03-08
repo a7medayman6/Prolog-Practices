@@ -1,12 +1,15 @@
 /*
-	tony and liza are married.
-	elliot is tonys and lisas son.
-	neal is tonys and lisas son.
-	patrick and terissa are married.
-	angela is patricks and terissas daughter.
-	elliot and angela are married.
-	will is elliots and angelas son.
-	margot is elliots and angelas daughter.
+	Implement this family tree
+	Implement grandfather, grandmother, sister, brother, uncle, aunt, son, daugher, cousin, nephew, and niece.
+	The Family members:- 
+		tony and liza are married.
+		elliot is tonys and lisas son.
+		neal is tonys and lisas son.
+		patrick and terissa are married.
+		angela is patricks and terissas daughter.
+		elliot and angela are married.
+		will is elliots and angelas son.
+		margot is elliots and angelas daughter.
 
 */
 
@@ -47,12 +50,14 @@ grandmother(GrandChild, GrandMother) :-
 sister(Sister, X) :-
 	female(Sister),
 	parent(Sister, P),
-	parent(X, P).
+	parent(X, P),
+	Sister \= X.
 
 brother(Brother, X) :-
 	male(Brother),
 	parent(Brother, P),
-	parent(X, P).
+	parent(X, P),
+	Brother \= X.
 
 uncle(Uncle, X) :-
 	male(Uncle),
