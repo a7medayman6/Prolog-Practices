@@ -12,6 +12,7 @@
 - [Fibonacci](/fibonacci.pro)
 - [Lists Operations I](/Lists-Operations-I)
 - [Shape Area](/Shape-Area.pro)
+- [Library](/library.pro)
 
 To run these programs  use the [Prolog online compiler](https://swish.swi-prolog.org/example/kb.pl) 
 </br> **OR**</br>
