@@ -11,6 +11,7 @@
 - [Power](/power.pro)
 - [Fibonacci](/fibonacci.pro)
 - [Lists Operations I](/Lists-Operations-I)
+- [Lists Operations II](/Lists-Operations-II.pro)
 - [Shape Area](/Shape-Area.pro)
 - [Library](/library.pro)
 - [Traverse Tree](/traverse-tree.pro)
