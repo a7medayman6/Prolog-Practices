@@ -10,6 +10,8 @@
 - [Calculator](/calculator.pro)
 - [Power](/power.pro)
 - [Fibonacci](/fibonacci.pro)
+- [Lists Operations I](/Lists-Operations-I)
+
 
 To run these programs  use the [Prolog online compiler](https://swish.swi-prolog.org/example/kb.pl) 
 </br> **OR**</br>
